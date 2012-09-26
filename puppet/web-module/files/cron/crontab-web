@@ -1,0 +1,1 @@
+*/30 * * * * puppet apply /etc/puppet/modules/web/manifests/init-web.pp > /root/puppet.out 2> /root/puppet.err

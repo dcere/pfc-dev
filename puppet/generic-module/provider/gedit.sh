@@ -1,0 +1,1 @@
+gedit cloud*.rb &
